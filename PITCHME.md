@@ -9,6 +9,9 @@ Vigo Android Dev Group
 Vigo Tech
 @snapend
 ---
+Vigo Tech Alliance 
+### https://vigotech.org/
+---
 ### Kaleido Coworking
 ![Vigo Tech](template/img/Kaleido-Coworking.jpg)
 ### Gracias
