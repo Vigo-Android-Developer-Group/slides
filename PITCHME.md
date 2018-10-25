@@ -18,5 +18,5 @@ Vigo Tech Alliance
 ##### https://www.kaleidocoworking.com/
 ---
 ### coinScrap
-![coinscrap](template/img/coinsrap.png)
+![coinscrap](template/img/coinscrap.png)
 #### Patrocinador Meetup
